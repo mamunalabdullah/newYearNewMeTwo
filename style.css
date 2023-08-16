@@ -14,7 +14,7 @@ a{
 
 /* header styles */
 header{
-    background-image: url(images/banner/banner1.png);
+    background-image: url(images/banner/banner2.png);
     background-size: cover;
     display: flex;
     justify-content: end;
@@ -24,9 +24,7 @@ header{
     text-align: right;
     height: 70vh;
     width: 30%;
-    padding: 230px 230px 0 0;
-
-    
+    padding: 230px 230px 0 0;    
 }
 .banner-heading{
     font-size: 65px;
@@ -83,9 +81,7 @@ header{
     color: #16D887;
     font-size: 16px;
 }
-
 /* plan styles */
-
 .plans{
     width: 80%;
     margin: 0 auto;
